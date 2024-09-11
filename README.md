@@ -1,5 +1,17 @@
-# Multithreading Web Scraping com IMDb
+# 🏆 Multithreading Web Scraping com IMDb
+![GitHub repo size](https://img.shields.io/github/repo-size/BrunoOliveira16/ecommerce-react?style=for-the-badge)
+![Languages](https://img.shields.io/github/languages/count/BrunoOliveira16/ecommerce-react?style=for-the-badge)
+![Status projeto](https://img.shields.io/badge/STATUS-CONCLUIDO-GREEN?style=for-the-badge)
 
+## ✔️ Tecnologias Utilizadas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B0082?style=for-the-badge&logo=beautifulsoup&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=requests&logoColor=white)
+
+
+
+
+## 📌 Resumo do Projeto
 Este projeto realiza **web scraping** no site **IMDb** para extrair informações sobre os filmes mais populares. Ele utiliza a biblioteca `requests` para fazer requisições HTTP e a `BeautifulSoup` para parsear o HTML. Além disso, o código faz uso de **multithreading** para otimizar a coleta de dados, tornando o processo mais rápido ao lidar com múltiplos filmes simultaneamente.
 
 ## Funcionalidades
